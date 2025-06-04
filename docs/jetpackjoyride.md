@@ -7,4 +7,4 @@
 ### Web
 
 ### Executables
-Stian - [gdrive](https://drive.google.com/file/d/1D8hE7dTc1FSsmgCZBu12RafqnLJp0axA/view?usp=sharing)
+Stian - [GitHub](https://github.com/StianGronas/miles-faggruppe-2025-grafikkspel/blob/main/games/Jetpack%20Joyride.exe)
