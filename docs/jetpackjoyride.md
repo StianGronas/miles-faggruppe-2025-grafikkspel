@@ -5,6 +5,7 @@
 ## Showcases
 
 ### Web
+[Egil](games/jetpackjoyride/JetpakkWeb/Jetpakk.html)
 
 ### Executables
 Stian - [GitHub](https://github.com/StianGronas/miles-faggruppe-2025-grafikkspel/blob/main/games/Jetpack%20Joyride.exe)
